@@ -6,3 +6,4 @@ just want to change
 change to check difference in working dirctory and staging area
 again modified
 dffffdffdfdfd
+again in git 

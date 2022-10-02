@@ -1,2 +1,1 @@
-# gittutorial
-learning git with code with harry
+this is readme file

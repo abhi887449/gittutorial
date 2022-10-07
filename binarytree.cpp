@@ -1,4 +1,5 @@
 template <typename T>
+//binary tree code uploaded
 class Binarytree
 {
 public:
